@@ -12,4 +12,5 @@ Client](https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/i
 If you are still using the [old
 one](https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/index.html)
 ``, simply switch to the `hlrc` branch of this repo).
+added for commit.
 
